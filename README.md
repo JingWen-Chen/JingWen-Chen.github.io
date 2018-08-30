@@ -6,6 +6,10 @@ Know me via my [Portfolio](http://jingwenrusendeyu.lofter.com/)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+### Photography
+[Link]([https://www.youtube.com/watch?v=4FM3-Idiz4A&t=7s/) and ![Image](src)
+### Written Works
+### Video
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
